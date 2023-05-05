@@ -1,0 +1,21 @@
+﻿  klasy.cpp
+C:\Users\Karol Ś\source\repos\projekt\projekt\klasy.cpp(8,39): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Karol Ś\source\repos\projekt\projekt\klasy.cpp(8,27): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Karol Ś\source\repos\projekt\projekt\klasy.cpp(109,75): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Karol Ś\source\repos\projekt\projekt\klasy.cpp(109,41): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Karol Ś\source\repos\projekt\projekt\klasy.cpp(122,36): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Karol Ś\source\repos\projekt\projekt\klasy.cpp(122,21): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Trwa generowanie kodu
+  2 of 215 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  projekt.vcxproj -> C:\Users\Karol Ś\source\repos\projekt\x64\Release\projekt.exe
